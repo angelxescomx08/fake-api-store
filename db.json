@@ -239,6 +239,22 @@
         "rate": 3.6,
         "count": 145
       }
+    },
+    {
+      "title": "Teclado mecánico",
+      "price": 120.2,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus",
+      "category": "men's clothing",
+      "image": "https://ss637.liverpool.com.mx/xl/1143900181.jpg",
+      "id": 21
+    },
+    {
+      "title": "Teclado mecánico",
+      "price": 120.2,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus",
+      "category": "men's clothing",
+      "image": "https://ss637.liverpool.com.mx/xl/1143900181.jpg",
+      "id": 22
     }
   ]
 }
